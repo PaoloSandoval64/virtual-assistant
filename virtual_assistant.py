@@ -20,7 +20,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
 import speech_recognition as sr
 
-name = 'alexa'
+name = '-name-'
 
 key = 'YOUR_API_KEY_HERE'
 
