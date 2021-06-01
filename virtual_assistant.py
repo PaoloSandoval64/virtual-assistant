@@ -22,7 +22,7 @@ import speech_recognition as sr
 
 name = 'alexa'
 
-key = 'AIzaSyB_Bc5s512eBs_8Q2gNoJoeOSPuSnlIFBk'
+key = 'YOUR_API_KEY_HERE'
 
 flag = 1 
 
